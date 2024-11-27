@@ -16,10 +16,10 @@ Welcome to my GitHub profile! I’m a passionate developer focused on crafting c
 ---
 
 ## 🛠️ Skills & Tools
-- **Languages**: JavaScript, Python, C++
-- **Frameworks**: React, Django, Flask
-- **Tools**: Docker, Git, CI/CD
-- **Cloud**: AWS, Azure
+- **Languages**: JavaScript, Python
+- **Frameworks**: React, Flask
+- **Tools**: Git,
+- **Cloud**: AWS
 
 ---
 
